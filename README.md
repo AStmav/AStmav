@@ -17,7 +17,6 @@ Hello! I am a Python backend developer with a keen interest in developing scalab
 - **Frontend Frameworks**: React, Angular
 - **Databases**: PostgreSQL, MySQL, SQLite, Redis
 - **DevOps**: Docker, Docker Compose, Git, Nginx
-- **Cloud Platforms**: AWS (EC2, S3, RDS), DigitalOcean
 - **Testing**: PyTest, UnitTest
 - **Other**: Celery, RabbitMQ, REST APIs, WebSockets
 
