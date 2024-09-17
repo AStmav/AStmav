@@ -34,15 +34,16 @@ Hello! I am a Python backend developer with a keen interest in developing scalab
 -->
 
 
-## 📈 My GitHub Stats
+<!--## 📈 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AStmav&show_icons=true&theme=radical)
 
 ---
+-->
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [linkedin.com/in/ast-mav](https://www.linkedin.com/in/ast-mav/)
+- **LinkedIn**: [Aleksei Mashurin](https://www.linkedin.com/in/ast-mav/)
 - **Telegram**: [@Ast_mav](https://t.me/Ast_mav)
 
 ---
